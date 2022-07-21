@@ -4,10 +4,6 @@ Basics:
 - [Git](https://git-scm.com/)
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 
-Front-end:
-- [React](https://reactjs.org/)
-- [Ant Design](https://ant.design/)
-
 ---
 
 ## 💥 How to Contribute
@@ -64,6 +60,11 @@ git merge upstream/main
 ### [GitHub Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
 
 **7.** Make your changes to the source code.
+  - Add you name in [Contributors.md](Contributors.md)
+  - Example:
+    ```markdown
+    - [Kabir](https://github.com/kabir0x23)
+    ```
 
 **8.** Stage your changes and commit:
 
@@ -72,7 +73,7 @@ git merge upstream/main
 ⚠️ **Make sure** not to run the commands `git add .` or `git add *`. Instead, stage your changes for each file/folder
 
 ```bash
-git add changed_file
+git add Contributors.md
 ```
 
 ```bash
