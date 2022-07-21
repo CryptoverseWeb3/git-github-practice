@@ -1,6 +1,4 @@
 # git-github-practice
-We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [CryptoverseWeb3-Support](https://github.com/CryptoverseWeb3/Support/).
-
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
@@ -40,10 +38,14 @@ git fetch upstream
 git merge upstream/main
 ```
 
-
 ### [GitHub Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
 
 **7.** Make your changes to the source code.
+  - Add you name in [Contributors.md](Contributors.md)
+  - Example:
+    ```markdown
+    - [Kabir](https://github.com/kabir0x23)
+    ```
 
 **8.** Stage your changes and commit:
 
@@ -52,13 +54,12 @@ git merge upstream/main
 ⚠️ **Make sure** not to run the commands `git add .` or `git add *`. Instead, stage your changes for each file/folder
 
 ```bash
-git add changed_file
+git add Contributors.md
 ```
 
 ```bash
 git commit -m "<your_commit_message>"
 ```
-
 
 **9.** Push your local commits to the remote repository:
 
@@ -71,5 +72,15 @@ git push origin YourBranchName
 **11.** **Congratulations!** You've made your first contribution to [**git-github-practice**](https://github.com/cryptoverseWeb3/git-github-practice/graphs/contributors)! 🙌🏼
 
 **_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the git-github-practice project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
+
+---
+
+- We help and encourage each other to contribute to open source little and often 😄.
+- Feel free to check out other cool open-source repositories and communities:
+    - [kabir0x23](https://github.com/kabir0x23)
+    - [Cryptoverse Web3](https://github.com/CryptoverseWeb3)
+    - [Thecyberworld](https://github.com/thecyberworld).
+
+
 
 ---
