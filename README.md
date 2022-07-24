@@ -77,10 +77,8 @@ git push origin YourBranchName
 
 - We help and encourage each other to contribute to open source little and often 😄.
 - Feel free to check out other cool open-source repositories and communities:
-    - [kabir0x23](https://github.com/kabir0x23)
     - [Cryptoverse Web3](https://github.com/CryptoverseWeb3)
-    - [Thecyberworld](https://github.com/thecyberworld).
-
-
-
+    - [Thecyberworld](https://github.com/thecyberworld)
+    - [kabir0x23](https://github.com/kabir0x23)
+    
 ---
