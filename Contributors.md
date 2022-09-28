@@ -5,5 +5,6 @@
  - [Jaswinder Singh](https://github.com/jaswindersingh2601)
  - [Aritra Bhaduri](https://github.com/aritrocoder)
  - [Niraj Kumar Mahto](https://github.com/nirajnkm)
+ - [Victoria Moraes](https://github.com/mr4s)
  
 [//]: # (End of the file)
