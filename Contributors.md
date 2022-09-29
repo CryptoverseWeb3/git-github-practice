@@ -6,5 +6,6 @@
  - [Aritra Bhaduri](https://github.com/aritrocoder)
  - [Niraj Kumar Mahto](https://github.com/nirajnkm)
  - [Victoria Moraes](https://github.com/mr4s)
+ - [ShorunTech](https://github.com/ShorunTech)
  
 [//]: # (End of the file)
