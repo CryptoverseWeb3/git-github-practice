@@ -7,5 +7,6 @@
  - [Niraj Kumar Mahto](https://github.com/nirajnkm)
  - [Victoria Moraes](https://github.com/mr4s)
  - [ShorunTech](https://github.com/ShorunTech)
+ - [Mohak](https://github.com/mohakgupt)
  
 [//]: # (End of the file)
