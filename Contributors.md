@@ -10,5 +10,7 @@
  - [ShorunTech](https://github.com/ShorunTech)
  - [Mohak](https://github.com/mohakgupt)
  - [Chandrakant Thakur](https://github.com/ChAnDrAkAnt484)
+ - [ifeanyi chima](https://github.com/masterifeanyi)
+
  
 [//]: # (End of the file)
