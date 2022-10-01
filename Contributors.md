@@ -7,6 +7,8 @@
  - [Niraj Kumar Mahto](https://github.com/nirajnkm)
  - [Victoria Moraes](https://github.com/mr4s)
  - [ShorunTech](https://github.com/ShorunTech)
- - [ifeanyi chima](https://github.com/masterifeanyi)
+ - [Mohak](https://github.com/mohakgupt)
+ - [Chandrakant Thakur](https://github.com/ChAnDrAkAnt484)
+
  
 [//]: # (End of the file)
