@@ -13,4 +13,4 @@
 - [ifeanyi chima](https://github.com/masterifeanyi)
 - [Muhammad Shahid](https://github.com/Muhammad-Shahid-Jamal)
 
-[//]: # 'End of the file'
+[//]: # (End of the file)
