@@ -12,5 +12,6 @@
 - [Chandrakant Thakur](https://github.com/ChAnDrAkAnt484)
 - [ifeanyi chima](https://github.com/masterifeanyi)
 - [Muhammad Shahid](https://github.com/Muhammad-Shahid-Jamal)
+- [Arpit Nagar](https://github.com/BenArpit)
 
 [//]: # (End of the file)
